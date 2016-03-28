@@ -1,0 +1,83 @@
+/**
+CORES
+#0059B2 navy
+#003366 escuro
+#212121 preto
+**/
+
+
+/*******************************************************************************************************************************************************************************************************************/
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300,400italic,600italic,800);
+
+@font-face {
+    font-family: 'Square721BT';
+    src: url('fonts/s721bt-webfont.eot');
+    src: url('fonts/s721bt-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/s721bt-webfont.woff2') format('woff2'), url('fonts/s721bt-webfont.woff') format('woff'), url('fonts/s721bt-webfont.ttf') format('truetype'), url('fonts/s721bt-webfont.svg#square721_btroman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Square721BTBold';
+    src: url('fonts/s721btb-webfont.eot');
+    src: url('fonts/s721btb-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/s721btb-webfont.woff2') format('woff2'), url('fonts/s721btb-webfont.woff') format('woff'), url('fonts/s721btb-webfont.ttf') format('truetype'), url('fonts/s721btb-webfont.svg#square721_btbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.n-navbutton {
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #212121;
+    padding: 20px;
+    text-align: center;
+    vertical-align: middle;
+    letter-spacing: 0pt;
+    line-height: 120%;
+}
+
+.n-navbutton:hover {
+    background-color: #0059B2;
+    padding: 20px;
+    border-bottom: 5px solid #003366;
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+    vertical-align: middle;
+    letter-spacing: 0pt;
+    line-height: 120%;
+    color: #FFFFFF;
+}
+
+/* LINHA FINA */
+.n-titulo-secao {
+    font-family: "Square721BTBold", sans-serif !important;
+    font-size: 56px;
+    font-weight: bold;
+    color: #003366 !important;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+    line-height: 95%;
+    margin-bottom: 30px;
+    -webkit-font-smoothing: antialiased;
+}
+
+.n-texto-secao {
+    font-family: "Open Sans", sans-serif !important;
+    font-weight: 100;
+    color: #212121;
+    letter-spacing: 1px;
+    border-bottom: 2px solid #cdcdcd;
+    font-size: 1.6em;
+    line-height: 1.2;
+    margin-bottom: 34px;
+    padding: 0 16px 26px 13px;
+    width: 93%;
+}
+
+
+/*******************************************************************************************************************************************************************************************************************/

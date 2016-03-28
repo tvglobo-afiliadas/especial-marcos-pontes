@@ -1,0 +1,43 @@
+/***************************************************/
+
+VÍDEO NO MEIO DA TELA
+
+<article class="streaming">
+<iframe class="player-video" src="http://especiais.g1.globo.com/v/index.html?id=4911627&amp;autoplay=false" frameborder="0" height="100%" width="100%"></iframe>
+</article>
+
+/**
+CORES
+#0059B2 navy
+#003366 escuro
+#212121 preto
+**/
+
+ITENS DO MENU
+
+off on pg
+
+texto-central-destaque
+
+inicio-capitulo
+
+
+section.interna > div h4
+//título do texto corrido, acima da linha fina
+
+.linha-fina
+//linha fina. sem mais.
+
+#main p
+//texto do role
+
+
+
+
+******
+FOTOS LATERAIS
+******
+
+article .photo-left-destaque
+figure .image-coala
+
