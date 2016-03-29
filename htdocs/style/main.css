@@ -840,7 +840,9 @@ footer figure figcaption h6 {
 }
 
 #linkTV li {
-    margin-top: 10px;
+    margin-left: -10px;
+    padding: 10px;
+    display: inline-block;
 }
 
 
@@ -851,11 +853,6 @@ footer figure figcaption h6 {
     background-color: #003366;
     padding: 10px;
     margin: 5px 0px 5px 0px;
-}
-
-.estiloLinkTV:after {
-     color: #FFFFFF;
-    content: " >>"
 }
 
 .ajusta-gif {
