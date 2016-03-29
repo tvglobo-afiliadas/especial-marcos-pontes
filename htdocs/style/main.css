@@ -835,6 +835,29 @@ footer figure figcaption h6 {
     color: #FFFFFF;
 }
 
+#linkTV {
+    margin-left: -11px;
+}
+
+#linkTV li {
+    margin-top: 10px;
+}
+
+
+.estiloLinkTV {
+    color: #FFFFFF;
+    display: block;
+    border-bottom: 3px solid #FFFFFF;
+    background-color: #003366;
+    padding: 10px;
+    margin: 5px 0px 5px 0px;
+}
+
+.estiloLinkTV:after {
+     color: #FFFFFF;
+    content: " >>"
+}
+
 .ajusta-gif {
     margin-top: 45px!important;
     margin-bottom: 39px!important;
