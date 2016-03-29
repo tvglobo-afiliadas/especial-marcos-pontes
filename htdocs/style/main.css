@@ -317,12 +317,14 @@ section.interna {
     width: 100%;
 }
 
+
+/* tank */
 section.interna .texto-central-destaque {
-    background-color: #fff;
+    /*background-color: #fff;*/
 }
 
 section.interna.destaque {
-    background-color: #F4F4F4;
+    background-color: #ffffff;
 }
 
 
@@ -359,8 +361,10 @@ section.interna.n-destaque-texto article p {
     font-family: "Square721BT" !important;
 }
 
+
+/*tank*/
 section.interna.destaque .texto-central-destaque {
-    background-color: #F4F4F4;
+    /*background-color: #F4F4F4;*/
 }
 
 section.interna .img-destaque {
@@ -387,7 +391,7 @@ section.interna > div {
     width: 100%;
 }
 
-section.interna > div h4 {
+/*section.interna > div h4 {
     font-size: 4.3em;
     font-weight: bold;
     margin-bottom: 24px;
@@ -399,6 +403,24 @@ section.interna > div h4 {
     text-transform: uppercase;
     text-align: center;
 }
+*/
+
+/*TANK */
+section.interna > div h4 {
+    font-size: 4.3em;
+    font-weight: bold;
+    margin-bottom: 24px;
+    line-height: 0.9;
+    text-align: left;
+    color: #003366;
+    padding: 0 1% 0 2%;
+    font-family: "Square721BTBold", sans-serif !important;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 15px;
+    background-color: #fff;
+}
+
 
 section.interna > div h5.linha-fina {
     font-family: "Open Sans", sans-serif !important;
@@ -443,6 +465,7 @@ section.interna > div p {
     margin-top: -75px;
     padding-top: 1%;
     margin-bottom: 54px;
+    background-color: #fff;
 }
 
 .off strong {
@@ -618,7 +641,7 @@ footer figure figcaption h6 {
 .largura-imagem {
     width: 100%;
     float: left;
-    background-color: #F4F4F4;
+    /*background-color: #F4F4F4;*/
 }
 
 .largura-imagem figure {
@@ -1413,8 +1436,10 @@ footer figure figcaption h6 {
         max-width: 410px;
         width: 37%;
     }
+    
+    /*tank*/
     #home .photo-left-destaque figure {
-        margin-bottom: 385px;
+        margin-bottom: 100px;
     }
     .texto-central-destaque.first {
         margin-top: -72px;
